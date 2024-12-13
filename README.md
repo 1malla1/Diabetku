@@ -1,3 +1,4 @@
+![icon no bg-01](https://github.com/user-attachments/assets/c745a875-ceb5-4563-b783-322acc3bc857)
 # Diabetku: A Diabetes Management App  
 
 **Diabetku** is a mobile application designed to help users manage their diabetes effectively. The application provides tools to predict diabetes, track blood glucose levels, recommend foods based on the user's glucose levels and access educational content to improve diabetes management.
