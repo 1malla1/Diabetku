@@ -2,6 +2,7 @@
 Machine Learning path build model prediction of diabetes and recommended food. In our model, we using Neural Network and Long Short Term Model (LSTM). After we build the model, we convert to JSON and .h5 model then deployed by Cloud Computing.
 
 Project Case :
+
 Diabetes Prediction
 
 Recommended Food
