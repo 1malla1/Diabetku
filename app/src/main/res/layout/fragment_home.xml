@@ -126,7 +126,7 @@
                             android:id="@+id/tvCategories"
                             android:layout_width="0dp"
                             android:layout_height="match_parent"
-                            android:text="@string/diabetesi"
+                            android:text="@string/tidak_ada_data"
                             android:textStyle="bold"
                             android:textSize="24sp"
                             android:paddingEnd="4dp"
