@@ -22,13 +22,21 @@ Make sure you have the following software installed on your system:
 1. Clone this repository:
 
    ```bash
-   git clone Cloud-computing https://github.com/1malla1/Diabetku
+      git clone https://github.com/1malla1/Diabetku.git
+   ```
+
+   ```bash
+      gCD Diabetku
+   ```
+
+   ```bash
+      git checkout Cloud-computing
    ```
 
 2. Go to the project directory:
 
    ```bash
-   cd Diabetku
+   cd CC
    ```
 
 3. Install dependencies:
