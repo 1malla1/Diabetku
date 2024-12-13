@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "913642994639",
+    "project_id": "fir-login-20a32",
+    "storage_bucket": "fir-login-20a32.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913642994639:android:7a7e8a6d6e10ce486e30ba",
+        "android_client_info": {
+          "package_name": "com.skye.diabetku"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyZp6OBDotOR0DBUUGSrLW2FfNUWE-DBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

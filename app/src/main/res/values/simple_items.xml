@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="simple_items">
+        <item>Laki-laki</item>
+        <item>Perempuan</item>
+    </string-array>
+
+    <string-array name="jenis_pemeriksaan">
+        <item>Bangun Tidur</item>
+        <item>Sebelum Makan</item>
+        <item>Setelah Makan</item>
+        <item>Sebelum Tidur</item>
+        <item>Puasa</item>
+        <item>Lainnya</item>
+    </string-array>
+</resources>

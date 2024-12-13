@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Blue Shades -->
+    <color name="blue_50">#eef4fe</color>
+    <color name="blue_100">#c9ddfb</color>
+    <color name="blue_200">#afccf9</color>
+    <color name="blue_300">#8ab5f6</color>
+    <color name="blue_400">#73a6f5</color>
+    <color name="blue_500">#5090f2</color>
+    <color name="blue_600">#4983dc</color>
+    <color name="blue_700">#3966ac</color>
+    <color name="blue_800">#2c4f85</color>
+    <color name="blue_900">#223c66</color>
+
+    <!-- Violet Shades -->
+    <color name="violet_50">#faf5fc</color>
+    <color name="violet_100">#efe1f4</color>
+    <color name="violet_200">#e8d2ef</color>
+    <color name="violet_300">#ddbee8</color>
+    <color name="violet_400">#d6b1e3</color>
+    <color name="violet_500">#cc9edc</color>
+    <color name="violet_600">#ba90c8</color>
+    <color name="violet_700">#91709c</color>
+    <color name="violet_800">#705779</color>
+    <color name="violet_900">#56425c</color>
+
+    <!-- Red Shades -->
+    <color name="red_50">#feeeee</color>
+    <color name="red_100">#fbc9c9</color>
+    <color name="red_200">#f9afaf</color>
+    <color name="red_300">#f68a8a</color>
+    <color name="red_400">#f57373</color>
+    <color name="red_500">#f25050</color>
+    <color name="red_600">#dc4949</color>
+    <color name="red_700">#ac3939</color>
+    <color name="red_800">#852c2c</color>
+    <color name="red_900">#662222</color>
+
+    <!-- Yellow Shades -->
+    <color name="yellow_50">#fef7ee</color>
+    <color name="yellow_100">#fbe6c9</color>
+    <color name="yellow_200">#f9daaf</color>
+    <color name="yellow_300">#f6c98a</color>
+    <color name="yellow_400">#f5be73</color>
+    <color name="yellow_500">#f2ae50</color>
+    <color name="yellow_600">#dc9e49</color>
+    <color name="yellow_700">#ac7c39</color>
+    <color name="yellow_800">#85602c</color>
+    <color name="yellow_900">#664922</color>
+
+    <color name="green_50">#eefcee</color>
+    <color name="green_100">#caf7ca</color>
+    <color name="green_200">#b0f3b0</color>
+    <color name="green_300">#8cee8c</color>
+    <color name="green_400">#75ea75</color>
+    <color name="green_500">#53e553</color>
+    <color name="green_600">#4cd04c</color>
+    <color name="green_700">#3ba33b</color>
+    <color name="green_800">#2e7e2e</color>
+    <color name="green_900">#236023</color>
+
+    <!-- Gray Shades -->
+    <color name="gray_50">#f4f4f6</color>
+    <color name="gray_100">#dbdbe2</color>
+    <color name="gray_200">#cacad4</color>
+    <color name="gray_300">#b2b2c0</color>
+    <color name="gray_400">#a3a3b4</color>
+    <color name="gray_500">#8c8ca1</color>
+    <color name="gray_600">#7f7f93</color>
+    <color name="gray_700">#636372</color>
+    <color name="gray_800">#4d4d59</color>
+    <color name="gray_900">#3b3b44</color>
+</resources>

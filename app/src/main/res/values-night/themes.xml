@@ -1,0 +1,33 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Diabetku" parent="Theme.Material3.DayNight">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/blue_200</item>
+        <item name="colorPrimaryVariant">@color/blue_700</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/violet_200</item>
+        <item name="colorSecondaryVariant">@color/violet_200</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="background">@color/gray_800</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+
+
+    </style>
+    <style name="AppTheme.NoActionBar" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your theme here -->
+        <item name="colorPrimary">@color/blue_500</item>
+        <item name="colorOnPrimary">@android:color/black</item>
+        <item name="colorPrimaryVariant">@color/blue_700</item>
+        <item name="colorPrimaryDark">@color/blue_500</item>
+        <item name="colorAccent">@color/violet_500</item>
+        <item name="background">@color/gray_800</item>
+        <item name="colorError">@color/red_500</item>
+
+    </style>
+    <style name="App.Custom.Indicator" parent="Widget.Material3.BottomNavigationView.ActiveIndicator">
+        <item name="android:color">@color/blue_500</item>
+    </style>
+</resources>

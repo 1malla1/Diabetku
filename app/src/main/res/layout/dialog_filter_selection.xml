@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <com.google.android.material.chip.ChipGroup
+        android:id="@+id/chipGroup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:singleSelection="true"
+        app:selectionRequired="true">
+
+        <com.google.android.material.chip.Chip
+            android:id="@+id/chipBangunTidur"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/bangun_tidur"
+            app:chipBackgroundColor="@color/dialog_chip_selector"
+            android:checkable="true"
+            android:clickable="true"
+            />
+
+        <com.google.android.material.chip.Chip
+            android:id="@+id/chipSebelumTidur"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/sebelum_tidur"
+            android:checkable="true"
+            android:clickable="true"
+            app:chipBackgroundColor="@color/dialog_chip_selector"/>
+
+        <com.google.android.material.chip.Chip
+            android:id="@+id/chipSebelumMakan"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/sebelum_makan"
+            android:checkable="true"
+            android:clickable="true"
+            app:chipBackgroundColor="@color/dialog_chip_selector"/>
+
+        <com.google.android.material.chip.Chip
+            android:id="@+id/chipSetelahMakan"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/setelah_makan"
+            android:checkable="true"
+            android:clickable="true"
+            app:chipBackgroundColor="@color/dialog_chip_selector"/>
+        <com.google.android.material.chip.Chip
+            android:id="@+id/chipPuasa"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/puasa"
+            android:checkable="true"
+            android:clickable="true"
+            app:chipBackgroundColor="@color/dialog_chip_selector"/>
+
+        <com.google.android.material.chip.Chip
+            android:id="@+id/chipLainnya"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/lainnya"
+            android:checkable="true"
+            android:clickable="true"
+            app:chipBackgroundColor="@color/dialog_chip_selector"/>
+
+        <!-- Add more chips as needed -->
+    </com.google.android.material.chip.ChipGroup>
+</LinearLayout>
